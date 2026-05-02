@@ -42,14 +42,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=nham6&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nham6&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contact
 - 💼 Open for interesting backend/system design projects
 - 🤝 Always happy to discuss tech, architecture, and ideas
