@@ -1,4 +1,4 @@
-# ✨ Hi there, it's Jake (Nam) 👋
+# Hi there, it's Jake (Nam)
 
 ## About Me
 - Based in Vietnam
@@ -11,11 +11,11 @@
 
 ## Tech Stack
 
-### 🖥 Backend
+### Backend
 - Python (Django, FastAPI)
 - Golang (Gin, GORM)
 
-### 🗄 Databases
+### Databases
 - PostgreSQL, MySQL
 - MongoDB
 - Redis, Elasticsearch
@@ -48,7 +48,7 @@
 
 ---
 
-⭐ *"Build simple systems that scale well."*
+*"Build simple systems that scale well."*
 
 <a href=https://github.com/nhnam6>
   <img align="center" height="160em" src="https://github-readme-stats-six-alpha-24.vercel.app/api?username=nhnam6&show_icons=true&theme=transparent" />
