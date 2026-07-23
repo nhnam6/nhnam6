@@ -1,15 +1,15 @@
 # ✨ Hi there, it's Jake (Nam) 👋
 
-## 🚀 About Me
-- 🌏 Based in Vietnam
-- 🧠 Senior Backend Engineer / Tech Lead
-- ⚙️ Focus on high-performance systems, fintech & crypto
-- 🔐 Interested in distributed systems, security, and system design
-- 🤖 Exploring AI/ML & LLM applications in real-world products
+## About Me
+- Based in Vietnam
+- Senior Backend Engineer / Tech Lead
+- Focus on high-performance systems, fintech & crypto
+- Interested in distributed systems, security, and system design
+- Exploring AI/ML & LLM applications in real-world products
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### 🖥 Backend
 - Python (Django, FastAPI)
@@ -20,20 +20,20 @@
 - MongoDB
 - Redis, Elasticsearch
 
-### ⚡ Messaging & Streaming
+### Messaging & Streaming
 - Kafka, RabbitMQ, NATS, AWS SQS
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 - AWS (EKS, RDS, S3, Lambda)
 - Docker, Kubernetes
 - Terraform, GitHub Actions
 
-### 🔍 Observability
+### Observability
 - Prometheus, Grafana, OpenTelemetry
 
 ---
 
-## 🏗 What I Do
+## What I Do
 - Design scalable backend systems (multi-tenant, high throughput)
 - Build real-time & async processing systems
 - Work on fintech, trading & payment platforms
@@ -42,9 +42,9 @@
 
 ---
 
-## 📫 Contact
-- 💼 Open for interesting backend/system design projects
-- 🤝 Always happy to discuss tech, architecture, and ideas
+## Contact
+- Open for interesting backend/system design projects
+- Always happy to discuss tech, architecture, and ideas
 
 ---
 
